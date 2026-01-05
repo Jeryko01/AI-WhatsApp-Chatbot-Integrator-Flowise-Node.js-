@@ -1,0 +1,13 @@
+theme: {
+	button: {
+		backgroundColor: "#ffffff:, //warna bg icon chatbot
+	},
+	chatWindow: {
+		userMessage: {
+			backgroundColor: "#ffffff", //warna background input chat
+		},
+		textInput: {
+			sendButtonColor: "#ffffff", //warna icon send
+		},
+	},
+},
